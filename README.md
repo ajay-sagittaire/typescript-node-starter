@@ -24,4 +24,4 @@ This repo uses the following libraires:
 - [Moment](https://momentjs.com/): Parse, validate, manipulate, and display dates and times in JavaScript.
 - [Lodash](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras.
 - [RxJS](https://rxjs-dev.firebaseapp.com/): A library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.
-- [Mongoose](https://mongoosejs.com/): Alegant mongodb object modeling for Node.js.
+- [Mongoose](https://mongoosejs.com/): Elegant mongodb object modeling for Node.js.
