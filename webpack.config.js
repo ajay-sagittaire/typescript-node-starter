@@ -13,7 +13,7 @@ fs.readdirSync('node_modules')
   }); 
 
 module.exports = {
-    entry: path.join(__dirname, '/src/index.ts'),
+    entry: path.join(__dirname, '/src/server.ts'),
     mode: 'none',
     output: {
         path: path.join(__dirname, 'dist'),
